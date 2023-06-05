@@ -1,0 +1,2 @@
+Predictors;Equations;Method;Criterion;Correlation;Pm
+Smax, H, X, X1, X3;103.11 + 0.48*Smax - 0.0*H + 0.29*X + 0.18*X1 + 0.19*X3;Lars5;0.6488469747275338;0.7609189203764926;75.67567568

@@ -928,3 +928,5 @@ Dataset_name;Group;Method;Criterion;Correlation;Pm;R2;Augmentation;Data size;Nor
 Вилия-Стешицы;0;LinearRegression;2.101410078782688;0;23.333333333333332;-3.415924319209461;Spline 2;60;None;Yes;Yes;S_2802, Smax, H_2802, X, X1, X2, X3, Xs, L_max, L_2802, Q12, Q01, Q02, Y_sum
 Вилия-Стешицы;0;Ridge;0.8655798430201881;0.5007709410071102;56.666666666666664;0.2507715353571466;Spline 2;60;None;Yes;Yes;S_2802, Smax, H_2802, X, X1, X2, X3, Xs, L_max, L_2802, Q12, Q01, Q02, Y_sum
 Вилия-Стешицы;0;LinearRegression;2.101410078782688;0;23.333333333333332;-3.415924319209461;Spline 2;60;None;Yes;Yes;S_2802, Smax, H_2802, X, X1, X2, X3, Xs, L_max, L_2802, Q12, Q01, Q02, Y_sum
+Вилия-Стешицы;0;Ridge;0.8655798430201881;0.5007709410071102;56.666666666666664;0.2507715353571466;Spline 2;60;None;Yes;Yes;S_2802, Smax, H_2802, X, X1, X2, X3, Xs, L_max, L_2802, Q12, Q01, Q02, Y_sum
+Вилия-Стешицы;0;LinearRegression;2.101410078782688;0;23.333333333333332;-3.415924319209461;Spline 2;60;None;Yes;Yes;S_2802, Smax, H_2802, X, X1, X2, X3, Xs, L_max, L_2802, Q12, Q01, Q02, Y_sum

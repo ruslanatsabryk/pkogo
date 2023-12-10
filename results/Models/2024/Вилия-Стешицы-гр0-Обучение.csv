@@ -1,2 +1,0 @@
-Predictors;Equations;Method;Criterion;Correlation;Pm;R2;Criterion_t;Correlation_t;Pm_t;R2_t;Criterion_f;Correlation_f;Pm_f;R2_f
-S_2802, Smax, H_2802, X, X1, X2, Xs, L_max, L_2802, Q12, Q01, Q02, Y_sum;89.157 + 0.567*S_2802 + 0.228*Smax + 0.44*H_2802 - 1.849*X - 1.989*X1 + 2.692*X2 + 2.125*Xs - 0.475*L_max + 0.658*L_2802 - 1.231*Q12 + 1.433*Q01 - 1.937*Q02 - 0.001*Y_sum;ARDRegression;1.7340092602286692;0;33.33333333333333;-2.0067881145587756;1.4762024101810278;0;30.0;-1.1791735558242755;1.5366476078274267;0;30.0;-1.361285870641753

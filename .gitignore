@@ -1,3 +1,4 @@
 env_ogo/
 .idea/
 .ipynb_checkpoints/
+*.pickle
